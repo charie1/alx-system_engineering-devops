@@ -1,1 +1,1 @@
-how to use chmod chgrp su and other commands in ubuntu
+inputting shell variables and expansions
